@@ -1,0 +1,16 @@
+* {
+  font-family: "Verdana", Geneva, Tahoma, sans-serif;
+  background-color: black;
+}
+
+.heading__header {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+.heading__link {
+  color: aquamarine;
+  font-size: 16px;
+}
