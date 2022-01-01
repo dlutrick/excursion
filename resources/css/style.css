@@ -1,8 +1,12 @@
+/* Universl styles */
 * {
   font-family: "Verdana", Geneva, Tahoma, sans-serif;
   background-color: black;
+  text-align: center;
+  padding: 10px;
 }
 
+/* Heading styles */
 .heading__header {
   color: white;
   font-weight: normal;
@@ -10,7 +14,29 @@
   text-align: center;
 }
 
-.heading__link {
+.link {
   color: aquamarine;
   font-size: 16px;
+}
+
+/* Photo section styles */
+.photo-section__header {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+.photo-section__photo {
+  width: 65%;
+}
+
+.photo-section__coming-soon {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+.copyright {
+  color: white;
+  text-align: right;
 }
